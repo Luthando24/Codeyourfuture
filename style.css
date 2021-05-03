@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+  }
+  html { 
+    background: url("images/louis-charron-5p7dIHLzFiU-unsplash.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 70px;
+    padding-top: 9%;
+    color: white;
+}
+.touch-text{
+	width: 27%;
+	text-align: center;
+	border-bottom: 2px solid rgb(255, 255, 255);
+	font-weight: bold;
+}
+.image{
+    padding-top: 5%;
+    margin-left: 38%;
+}
+
+
+
+
+
+.copyright p {
+    color: #000;
+     text-align: center;
+     padding: 100px 0px;
+     font-size: 17px;
+}
+ .copyright a:hover {
+    color: #d8b00f;
+ }
+  
+
